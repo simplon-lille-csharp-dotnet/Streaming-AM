@@ -60,7 +60,7 @@ WHERE
 ajouter un film
 ```bash
 INSERT INTO public.movie(title, duration, release_year, id_director)
-VALUES ('La Classe américaine : Le Grand Détournement', 70.00, '1993-12-31', 101);
+VALUES ('La Classe américaine : Le Grand Détournement', 70.00, '1993-12-31', 69);
 ```
 
 ajouter un acteur/actrice
@@ -142,7 +142,7 @@ BEGIN
 	VALUES ('Rambo XIIII', 119, '2019-07-23', 65);
 
 	INSERT INTO public.favorite_movie (id_user,id_movie) 
-	VALUES (1,2000);
+	VALUES (1,LASTVAL());
 
 	select COUNT(*) INTO movieInsertedCount from public.favorite_movie where id_movie =lastVal();
 
