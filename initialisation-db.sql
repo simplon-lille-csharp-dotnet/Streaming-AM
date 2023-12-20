@@ -632,7 +632,7 @@ CREATE TABLE public.movie (
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Half Baked',65.96,'11-12-1965',19);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Mysterious Mr. Moto',112.78,'18-12-2017',10);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Ladyhawke',96.75,'30-07-2006',33);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Boss of It All, The (Direktøren for det hele)',119.94,'10-10-1985',57);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Boss of It All, The (Direktï¿½ren for det hele)',119.94,'10-10-1985',57);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Vantage Point',102.45,'01-06-1968',77);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('I Want to Look Like That Guy',118.49,'16-02-1971',48);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Sweetest Thing, The',157.91,'03-03-2016',91);
@@ -768,7 +768,7 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Liar,
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Bela Kiss: Prologue',75.11,'20-10-1992',48);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Better Tomorrow III: Love and Death in Saigon, A',102.0,'22-01-1986',34);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Sleepover',88.44,'06-06-2011',33);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Rules of the Game, The (La règle du jeu)',80.79,'19-05-1987',78);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Rules of the Game, The (La rï¿½gle du jeu)',80.79,'19-05-1987',78);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('The Spectacular Now',66.68,'21-09-1968',64);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('My Little Pony: Equestria Girls',147.1,'26-11-2018',86);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Everything About Mustafa (Mustafa hakkinda hersey)',148.09,'14-01-2015',43);
@@ -778,12 +778,12 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Lette
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('American Astronaut, The',151.27,'08-11-1982',44);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Season of the Witch (Hungry Wives) (Jack''s Wife)',186.1,'15-08-2015',6);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Lone Wolf McQuade',128.55,'02-08-1995',36);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('I, Cesar (Moi César, 10 ans 1/2, 1m39)',155.03,'26-05-1970',18);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('I, Cesar (Moi Cï¿½sar, 10 ans 1/2, 1m39)',155.03,'26-05-1970',18);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Let''s Be Cops',139.61,'11-06-2004',18);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Stray Dogs (Sag-haye velgard)',174.76,'25-11-2016',48);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Teen Spirit',104.04,'25-07-1991',3);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Judge, The',80.44,'10-10-1998',48);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Duck, You Sucker (a.k.a. Fistful of Dynamite, A) (Giù la testa)',82.08,'11-08-1984',21);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Duck, You Sucker (a.k.a. Fistful of Dynamite, A) (Giï¿½ la testa)',82.08,'11-08-1984',21);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Feeling Minnesota',186.43,'10-02-1977',31);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Charlie Chan in Rio',69.92,'15-04-1964',15);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Escape to Athena',118.06,'28-07-2006',27);
@@ -799,7 +799,7 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Win/w
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Kiss and Make-Up',168.04,'16-10-1999',75);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Dancing at the Blue Iguana',130.28,'28-04-2008',42);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('The Gardener',107.26,'06-02-2013',67);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('White Dwarf, The (Valkoinen kääpiö)',87.44,'24-04-2009',90);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('White Dwarf, The (Valkoinen kï¿½ï¿½piï¿½)',87.44,'24-04-2009',90);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Lan Yu',185.89,'08-05-2004',63);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Flash Gordon''s Trip to Mars',84.33,'19-03-2015',73);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Hurt Locker, The',94.62,'28-06-2018',46);
@@ -809,7 +809,7 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Doppe
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Babar The Movie',121.56,'22-04-1984',78);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Substitute, The',189.86,'24-07-2015',85);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Once Upon a Time in China III (Wong Fei-hung tsi sam: Siwong tsangba)',67.98,'19-01-2016',98);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Girl Cut in Two, The (Fille coupée en deux, La)',173.87,'05-04-1962',68);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Girl Cut in Two, The (Fille coupï¿½e en deux, La)',173.87,'05-04-1962',68);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Chance Pe Dance',154.2,'05-07-1987',17);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Island',87.17,'10-05-2021',76);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Chappie',65.61,'12-10-1998',40);
@@ -836,7 +836,7 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Comin
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Man Who Sleeps, The (Un homme qui dort)',125.21,'28-06-1970',92);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Philadelphia Experiment II',95.99,'18-08-2019',34);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('A Phantasy',168.9,'15-02-1999',42);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Romantics Anonymous (Les émotifs anonymes)',64.48,'15-03-2017',43);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Romantics Anonymous (Les ï¿½motifs anonymes)',64.48,'15-03-2017',43);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Curtis''s Charm',113.79,'28-02-1971',12);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Late Mathias Pascal, The (a.k.a. The Living Dead Man) (Feu Mathias Pascal)',137.33,'10-06-2008',63);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Modify',92.66,'18-03-2011',60);
@@ -847,7 +847,7 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Storm
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Cry ''Havoc''',65.61,'14-02-1994',96);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('H.H. Holmes: America''s First Serial Killer',184.78,'16-08-2008',57);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Powder Room',185.21,'27-10-1996',21);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Zatoichi''s Vengeance (Zatôichi no uta ga kikoeru) (Zatôichi 13)',145.7,'15-01-2009',74);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Zatoichi''s Vengeance (Zatï¿½ichi no uta ga kikoeru) (Zatï¿½ichi 13)',145.7,'15-01-2009',74);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Alone with Her',176.22,'25-08-2014',48);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Confessions of a Superhero',170.08,'21-10-1994',76);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Ain''t in It for My Health: A Film About Levon Helm',155.02,'04-07-2016',93);
@@ -886,7 +886,7 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('High 
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Curse of the Oily Man (Sumpah orang minyak)',180.89,'31-01-1978',33);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Attack of the Puppet People',150.68,'20-03-2021',37);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Daughter of Dr. Jeckyll',121.06,'07-10-2014',56);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Bench, The (Bænken)',156.18,'19-02-1963',43);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Bench, The (Bï¿½nken)',156.18,'19-02-1963',43);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Kids World',140.75,'26-04-1985',84);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Young Visiters, The',72.2,'20-11-2013',2);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Jindabyne',172.18,'29-09-1971',15);
@@ -904,7 +904,7 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Dawn 
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Amour fou, L''',179.96,'24-07-1962',91);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Enforcer, The (Gei ba ba de xin)',88.47,'27-04-2014',94);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Unstrung Heroes',126.62,'19-02-2017',30);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Deadly Circuit (Mortelle randonnée)',116.95,'05-06-2018',20);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Deadly Circuit (Mortelle randonnï¿½e)',116.95,'05-06-2018',20);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Highway to Hell',148.61,'26-04-2008',35);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Beautiful Girl',68.4,'31-03-1993',74);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('All I Want for Christmas',114.82,'25-05-1965',13);
@@ -922,7 +922,7 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('La da
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('This Ain''t California',86.39,'17-03-2017',66);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Revenge for Jolly!',75.83,'08-11-2007',34);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Rambo (Rambo 4)',110.13,'21-09-2013',65);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Burrowing (Man tänker sitt)',166.47,'31-08-2017',18);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Burrowing (Man tï¿½nker sitt)',166.47,'31-08-2017',18);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Alice in Murderland',93.9,'14-03-2022',65);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Novocaine',90.18,'31-05-1998',71);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('French Cancan',120.92,'02-09-1962',75);
@@ -930,7 +930,7 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Blade
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Terkel in Trouble (Terkel i knibe)',132.43,'27-09-1982',15);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Full Body Massage',152.92,'09-11-1976',73);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Christmas in Connecticut',175.79,'05-02-2015',93);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Bizarre, Bizarre (Drôle de drame ou L''étrange aventure de Docteur Molyneux)',178.37,'17-09-1977',72);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Bizarre, Bizarre (Drï¿½le de drame ou L''ï¿½trange aventure de Docteur Molyneux)',178.37,'17-09-1977',72);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('The Fox and the Hare',71.39,'06-10-2019',45);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Four Days of Naples, The (Le quattro giornate di Napoli)',106.89,'26-11-2020',83);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('HazMat',123.34,'16-04-1978',14);
@@ -939,7 +939,7 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Maze 
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Anna',84.28,'26-07-1998',14);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Forty Shades of Blue',189.48,'17-09-2008',64);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Shark Tale',136.41,'09-09-2014',63);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Lovers of the Arctic Circle, The (Los Amantes del Círculo Polar)',78.1,'07-12-2012',85);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Lovers of the Arctic Circle, The (Los Amantes del Cï¿½rculo Polar)',78.1,'07-12-2012',85);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Cousins, The (Cousins, Les)',86.63,'21-05-1975',13);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Medea',79.08,'14-05-2004',22);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Delgo',132.21,'07-05-1987',87);
@@ -954,7 +954,7 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('1987'
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Devil''s Ground, The',115.73,'27-11-1983',91);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Cat on a Hot Tin Roof',104.99,'04-04-1998',32);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Children of a Lesser God',142.3,'18-04-2000',37);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('5 Centimeters per Second (Byôsoku 5 senchimêtoru)',102.66,'30-11-2004',84);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('5 Centimeters per Second (Byï¿½soku 5 senchimï¿½toru)',102.66,'30-11-2004',84);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('No Way Back',130.95,'01-02-2005',46);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('De la servitude moderne',80.65,'11-10-1962',17);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Take, The',168.46,'10-07-2008',30);
@@ -994,14 +994,14 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Never
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Manufacturing Consent: Noam Chomsky and the Media',161.85,'08-02-1973',29);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Larceny, Inc.',96.22,'01-01-1994',12);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Fire on the Mountain',160.73,'27-10-2008',55);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Sergeant Körmy and the Underwater Vehicles (Vääpeli Körmy ja vetenalaiset vehkeet)',85.24,'24-12-1963',6);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Sergeant Kï¿½rmy and the Underwater Vehicles (Vï¿½ï¿½peli Kï¿½rmy ja vetenalaiset vehkeet)',85.24,'24-12-1963',6);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Easy Money (Snabba Cash)',85.57,'19-02-1992',11);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Scenic Route',123.41,'09-01-1996',92);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Star Wars: Threads of Destiny',107.32,'12-01-2021',36);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('White Nights',95.86,'07-08-1976',87);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Postman Blues',71.04,'25-04-1984',17);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Lady and the Duke, The (Anglaise et le duc, L'')',160.05,'21-12-2017',5);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('My Mother (Ma mère)',157.99,'19-06-1964',48);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('My Mother (Ma mï¿½re)',157.99,'19-06-1964',48);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Return Of The Ghostbusters',91.92,'18-06-2011',72);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('My Week with Marilyn',138.03,'12-02-1965',32);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Wild Hunt, The',188.72,'17-02-1995',45);
@@ -1028,7 +1028,7 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Demen
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Can''t Stop the Music',179.76,'29-01-2020',2);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Reds',162.14,'30-11-1992',67);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Nelly & Monsieur Arnaud',188.27,'28-09-1991',29);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Mélo',148.14,'31-08-1982',1);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Mï¿½lo',148.14,'31-08-1982',1);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Life',94.6,'10-03-1984',70);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Girl, Interrupted',158.75,'09-04-1977',32);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Those Who Love Me Can Take the Train (Ceux qui m''aiment prendront le train)',101.98,'14-12-1981',77);
@@ -1062,9 +1062,9 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Not o
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Vollidiot',82.49,'04-01-1973',49);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Legend II, The (Fong Sai Yuk juk jaap)',166.1,'10-04-2009',81);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Angelus',136.46,'10-06-2000',80);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Last Elvis, The (Último Elvis, El)',182.41,'23-06-1966',93);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Last Elvis, The (ï¿½ltimo Elvis, El)',182.41,'23-06-1966',93);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Under the Boardwalk: The Monopoly Story',88.03,'30-06-1980',84);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Bride from Hades, The (Botan-dôrô) (Peony Lantern) (Tale of Peonies and Lanterns, A)',107.96,'11-06-2008',30);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Bride from Hades, The (Botan-dï¿½rï¿½) (Peony Lantern) (Tale of Peonies and Lanterns, A)',107.96,'11-06-2008',30);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Foosball (Metegol)',124.32,'01-07-1961',27);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Train, The',139.15,'08-10-1990',8);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Dr. Gillespie''s New Assistant',131.6,'28-08-1970',45);
@@ -1074,7 +1074,7 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('What 
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Everything Is Illuminated',119.36,'09-03-2019',34);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Fiendish Plot of Dr. Fu Manchu, The',90.89,'13-01-1977',46);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Vice Squad',80.91,'21-08-1964',69);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Blind Swordsman: Zatoichi, The (Zatôichi)',130.67,'12-08-1968',47);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Blind Swordsman: Zatoichi, The (Zatï¿½ichi)',130.67,'12-08-1968',47);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Complete History of My Sexual Failures, A',103.65,'19-12-1978',51);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('My Joy (Schastye moe)',186.99,'06-10-1961',27);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Weekender',105.26,'09-03-1974',62);
@@ -1102,14 +1102,14 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Iria:
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Gigantic (A Tale of Two Johns)',83.01,'31-01-1962',59);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Spiderwick Chronicles, The',129.06,'09-01-2019',79);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Deep Blue Sea, The',171.9,'05-07-2019',47);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Corsican File, The (L''enquête corse)',116.17,'03-03-2009',12);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Corsican File, The (L''enquï¿½te corse)',116.17,'03-03-2009',12);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Alphabet',131.8,'31-08-2021',58);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Wolves',141.84,'21-11-1985',10);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Hellzapoppin''',111.52,'13-08-1979',3);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Undocumented',65.68,'21-07-1985',64);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Fast & Furious (Fast and the Furious 4, The)',160.35,'28-11-2002',16);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Idiots, The (Idioterne)',113.47,'21-09-2019',89);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Adventures of Picasso, The (Picassos äventyr)',142.8,'09-04-1965',16);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Adventures of Picasso, The (Picassos ï¿½ventyr)',142.8,'09-04-1965',16);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Pool, The (Swimming Pool - Der Tod feiert mit)',91.02,'01-01-1996',46);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Great White Hope, The',70.34,'12-12-1962',79);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('The Girl in a Swing',74.02,'09-07-1983',42);
@@ -1119,7 +1119,7 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Walk,
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Night Falls on Manhattan',184.74,'26-09-1962',11);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Shadow Magic',137.21,'22-06-2016',88);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Almost 18',164.86,'06-02-1964',49);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Ultraman (Chôhen kaijû eiga: Urutoraman)',148.06,'30-04-2020',62);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Ultraman (Chï¿½hen kaijï¿½ eiga: Urutoraman)',148.06,'30-04-2020',62);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Mare Nostrum',72.66,'01-04-1975',9);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Holes in My Shoes',63.59,'13-10-2001',13);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Triumph of the Nerds, The: The Rise of Accidental Empires',181.76,'22-12-2000',80);
@@ -1128,7 +1128,7 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Sweet
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Passion of Ayn Rand, The',155.45,'06-08-2020',39);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Parenthood',69.63,'17-03-2003',18);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Prom Night IV: Deliver Us From Evil',67.62,'30-01-2013',1);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Any Number Can Win (Mélodie en sous-sol )',61.11,'16-04-1987',39);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Any Number Can Win (Mï¿½lodie en sous-sol )',61.11,'16-04-1987',39);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Saawariya',165.97,'26-12-2007',52);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Another Gay Movie',127.72,'17-10-1970',50);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('To the Limit (Am Limit)',167.23,'02-06-1984',7);
@@ -1161,7 +1161,7 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Scotl
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Way We Were, The',170.09,'18-01-1965',68);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Strawberry Blonde, The',78.15,'05-04-2001',40);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('They Live',87.01,'13-08-2020',61);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Guilty (Présumé coupable)',63.06,'24-03-1982',40);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Guilty (Prï¿½sumï¿½ coupable)',63.06,'24-03-1982',40);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Far from Home',109.2,'04-09-2016',81);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Cairo Station (a.k.a. Iron Gate, The) (Bab el hadid)',66.53,'27-09-2014',5);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Body Count',135.0,'24-03-1987',63);
@@ -1227,7 +1227,7 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Pajam
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Five People You Meet in Heaven, The',176.47,'23-01-1975',54);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Lizard, The (Marmoulak)',155.65,'15-12-1985',62);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Pretty Cool',152.09,'06-10-2021',57);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Conquest, The (La conquête)',135.49,'20-04-2006',20);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Conquest, The (La conquï¿½te)',135.49,'20-04-2006',20);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Seven Thieves',169.49,'16-03-1996',30);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Cinema Verite',132.75,'24-10-1999',23);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Cowboy Bebop: The Movie (Cowboy Bebop: Tengoku no Tobira)',141.93,'26-01-2011',88);
@@ -1237,12 +1237,12 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Shake
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Recess: School''s Out',68.27,'24-07-2014',91);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Splash',125.51,'20-06-1988',67);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Roadracers',141.54,'06-12-2018',56);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Loners (Samotári)',146.48,'29-05-1992',52);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Loners (Samotï¿½ri)',146.48,'29-05-1992',52);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Caligula',160.08,'26-06-2022',17);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Leave It to Beaver',97.2,'18-07-2022',7);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Where Were You When the Lights Went Out?',143.61,'11-11-1995',52);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Draughtsman''s Contract, The',111.61,'21-12-1980',46);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Gentle Breeze in the Village, A (Tennen kokekkô)',97.29,'17-04-1993',7);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Gentle Breeze in the Village, A (Tennen kokekkï¿½)',97.29,'17-04-1993',7);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Flying Down to Rio',60.04,'03-12-2006',61);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('1612: Khroniki smutnogo vremeni',63.99,'24-09-1997',83);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Winged Migration (Peuple migrateur, Le)',80.36,'08-11-1983',55);
@@ -1251,7 +1251,7 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Footp
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('16 Years of Alcohol',62.05,'28-11-2004',56);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Jetsons: The Movie',103.43,'07-02-1975',30);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Player''s Club, The',112.93,'08-11-2010',25);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Hothead (Coup de tête)',163.18,'29-03-1995',79);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Hothead (Coup de tï¿½te)',163.18,'29-03-1995',79);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('War, The',123.2,'12-09-2021',39);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Blade, The (Dao)',114.15,'09-05-1967',48);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Guest, The',86.92,'12-12-1999',47);
@@ -1260,7 +1260,7 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Big T
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Eaten Alive (Mangiati Vivi)',104.99,'29-08-1962',89);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Cat and the Canary, The',141.56,'29-10-1973',91);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Chosen One, The',96.57,'10-03-1969',61);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Marshland (Isla mínima, La)',101.54,'23-01-2019',50);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Marshland (Isla mï¿½nima, La)',101.54,'23-01-2019',50);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Mogambo',172.08,'19-08-1989',83);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Madame Rosa (La vie devant soi)',124.38,'28-07-1963',66);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Garfield: A Tail of Two Kitties',176.09,'15-11-1975',29);
@@ -1271,7 +1271,7 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Narc'
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Jumping the Broom',77.22,'15-10-1997',9);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Batch ''81',69.6,'09-12-2016',20);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Heartbreaker (L''Arnacoeur)',172.75,'04-09-1962',92);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Nothing to Declare (Rien à déclarer)',171.67,'28-05-1980',58);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Nothing to Declare (Rien ï¿½ dï¿½clarer)',171.67,'28-05-1980',58);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Blood Suckers from Outer Space',139.43,'08-05-1966',72);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('As I Lay Dying',68.83,'11-08-1996',11);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('I Am',182.09,'15-11-1968',20);
@@ -1285,7 +1285,7 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Aveng
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Coelacanth: The Fish That Time Forgot',85.45,'29-05-1988',75);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Dante''s Inferno',138.23,'27-07-1974',37);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('In Time',186.61,'26-06-1982',93);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Warning Shadows (Schatten - Eine nächtliche Halluzination)',157.96,'20-02-2019',77);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Warning Shadows (Schatten - Eine nï¿½chtliche Halluzination)',157.96,'20-02-2019',77);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Zero Effect',99.96,'19-08-1991',60);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Blubberella',73.21,'27-06-1967',41);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Making ''The New World''',65.48,'19-02-2003',57);
@@ -1304,7 +1304,7 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Which
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Big Trees, The',183.79,'05-07-2011',21);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Spirits of the Dead',155.67,'11-04-2008',40);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Starting Over',90.88,'17-06-1961',1);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Boy (Shônen)',106.78,'28-01-2017',36);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Boy (Shï¿½nen)',106.78,'28-01-2017',36);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Go Tell the Spartans',106.63,'24-08-1991',79);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Ask Me Anything',185.0,'28-01-1978',56);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Jamie and Jessie Are Not Together',60.98,'02-04-2005',47);
@@ -1319,12 +1319,12 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Bandw
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Manhunt',92.56,'23-04-1994',41);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Legend No. 17',110.3,'28-12-2014',96);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Wrong Turn',112.1,'15-10-1982',91);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Our Daily Bread (Unser täglich Brot)',159.67,'18-12-1975',79);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Our Daily Bread (Unser tï¿½glich Brot)',159.67,'18-12-1975',79);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Strange Case of Dr. Jekyll and Mr. Hyde, The',88.91,'15-02-1969',46);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('The Boy',165.36,'24-05-1979',55);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Clara and Me (Clara et moi)',185.98,'02-04-1987',81);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('For the Love of Benji',153.45,'24-05-2016',23);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Appleseed (Appurushîdo)',61.8,'05-04-2011',34);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Appleseed (Appurushï¿½do)',61.8,'05-04-2011',34);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Floating',145.13,'17-01-1966',75);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Roadie',89.17,'12-03-1974',76);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Rules of Engagement',76.07,'30-04-1999',50);
@@ -1332,7 +1332,7 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('McCab
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Hand in Hand',62.19,'24-11-1965',79);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Time Lapse',76.55,'22-02-1973',76);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Bikini Beach',63.1,'06-09-1990',2);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Children of Nature (Börn náttúrunnar)',107.52,'08-01-1961',90);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Children of Nature (Bï¿½rn nï¿½ttï¿½runnar)',107.52,'08-01-1961',90);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Walking Tall',185.68,'28-04-1984',30);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Laura',88.18,'13-07-1967',76);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Slumber Party Massacre III',134.03,'31-07-1973',85);
@@ -1352,7 +1352,7 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Befor
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Taken 3',98.4,'26-11-1981',79);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Fire in the Sky',187.72,'30-04-2001',27);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Cold Prey III (Fritt Vilt III)',153.47,'01-10-2008',4);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Construction, The (En construcción)',65.71,'01-06-2000',70);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Construction, The (En construcciï¿½n)',65.71,'01-06-2000',70);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Mega Piranha',98.64,'08-07-2003',7);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Four Daughters',119.46,'27-02-2023',67);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Lucy',175.51,'28-06-1993',87);
@@ -1380,9 +1380,9 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('High 
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Shadows',142.36,'04-08-1999',4);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Hard Ticket to Hawaii',78.12,'26-01-1998',8);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Kim',66.54,'10-02-2001',55);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Adrift (À Deriva)',145.87,'29-08-2018',62);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Adrift (ï¿½ Deriva)',145.87,'29-08-2018',62);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Perfect Human, The (Perfekte Menneske, Det)',114.02,'21-10-1963',33);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Act in Question, The (Acto en cuestión, El)',127.14,'18-02-2018',56);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Act in Question, The (Acto en cuestiï¿½n, El)',127.14,'18-02-2018',56);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Urban Legend',73.62,'02-01-1997',24);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Son of the Mask',176.04,'23-11-1998',83);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Wool Cap, The',91.98,'07-08-1987',57);
@@ -1424,7 +1424,7 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Once 
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Kiss for Corliss, A (Almost a Bride)',85.81,'23-09-1962',14);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Wild',116.53,'28-08-2013',52);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Petting Zoo',81.97,'01-11-2016',82);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Marshland (Isla mínima, La)',169.65,'12-05-2023',60);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Marshland (Isla mï¿½nima, La)',169.65,'12-05-2023',60);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Daddy Nostalgia (Daddy Nostalgie)',150.35,'22-11-2023',56);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('House of Tolerance',165.79,'23-08-1996',63);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Aurora',132.72,'03-03-1992',44);
@@ -1479,7 +1479,7 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Maria
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Whisper',165.35,'07-02-1988',83);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Angels in the Outfield',140.91,'12-03-1981',23);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Promise, The (Wu ji)',125.72,'07-10-1981',37);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Burning Hot Summer, A (Un été brûlant)',101.73,'21-08-2006',27);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Burning Hot Summer, A (Un ï¿½tï¿½ brï¿½lant)',101.73,'21-08-2006',27);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Ninja III: The Domination',67.23,'24-04-1970',94);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('London to Brighton',124.57,'10-04-2001',51);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Days and Nights',143.51,'05-08-2017',31);
@@ -1500,13 +1500,13 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Hunte
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Waiting For Armageddon',152.92,'01-04-1989',93);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Shiver of the Vampires, The (Frisson des vampires, Le)',162.97,'04-12-1985',48);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Crossroads',93.96,'06-05-2006',80);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Older Brother, Younger Sister (Ani imôto)',62.59,'07-07-2017',12);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Older Brother, Younger Sister (Ani imï¿½to)',62.59,'07-07-2017',12);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Everly',83.69,'22-06-2013',16);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Executive Action',154.64,'05-02-1975',19);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Love the Hard Way',62.48,'06-11-1979',92);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Hands of the Ripper',151.66,'25-05-2014',100);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Perfect Family, The',112.03,'09-07-1998',30);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Die Is Cast, The (La suerte está echada)',80.32,'19-08-2016',18);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Die Is Cast, The (La suerte estï¿½ echada)',80.32,'19-08-2016',18);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('47 Ronin',178.86,'09-10-2001',71);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Sleepy Time Gal, The',135.7,'06-06-1961',13);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Taxi 2',132.68,'04-04-1991',77);
@@ -1516,12 +1516,12 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Hollo
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('True Meaning of Christmas Specials, The',110.99,'05-05-2020',79);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('U.S. vs. John Lennon, The',157.77,'25-06-1987',34);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Just a Kiss',171.56,'05-10-2017',96);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Lila Says (Lila dit ça)',186.67,'13-05-1996',6);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Lila Says (Lila dit ï¿½a)',186.67,'13-05-1996',6);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Rise & Fall of ECW, The',152.68,'19-05-1965',49);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Son of Dracula',70.72,'21-05-2014',86);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('24 City (Er shi si cheng ji)',82.98,'14-01-1997',95);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Elf',74.4,'07-07-2003',44);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Kestrel''s Eye (Falkens öga)',160.35,'31-10-1991',7);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Kestrel''s Eye (Falkens ï¿½ga)',160.35,'31-10-1991',7);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Lonely Wife, The (Charulata)',189.13,'20-07-1975',6);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Run, Man, Run! (Corri uomo corri)',155.17,'20-11-2001',5);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('12 Angry Men',68.23,'27-09-2002',4);
@@ -1544,7 +1544,7 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Holly
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Night at the Museum: Battle of the Smithsonian',77.14,'25-12-2018',28);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Still Bill',109.07,'11-01-2020',59);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Street Angel',105.67,'21-08-1977',67);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('8 ½ Women (a.k.a. 8 1/2 Women) (a.k.a. Eight and a Half Women)',183.05,'23-08-2018',93);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('8 ï¿½ Women (a.k.a. 8 1/2 Women) (a.k.a. Eight and a Half Women)',183.05,'23-08-2018',93);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Cry ''Havoc''',165.97,'05-12-1981',100);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('I''ll Be Home For Christmas',147.44,'06-06-2009',24);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Angels in America',177.53,'11-10-1971',52);
@@ -1564,7 +1564,7 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Pool,
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Evil Remains (Trespassing)',144.68,'06-10-2006',33);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('What We Do in the Shadows',70.41,'26-04-1982',34);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Stoned',94.91,'17-04-1980',71);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Guilty (Présumé coupable)',144.94,'19-10-1999',18);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Guilty (Prï¿½sumï¿½ coupable)',144.94,'19-10-1999',18);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Other Side of Midnight, The',90.37,'13-08-1965',73);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Cypher',86.25,'23-06-1989',18);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Sea Fog',122.42,'08-07-1966',9);
@@ -1586,11 +1586,11 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Ishq'
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Doc',62.2,'15-06-2003',60);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Machuca',153.69,'15-01-2003',77);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('American Scary',159.85,'12-12-2022',22);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Woman in the Fifth, The (Femme du Vème, La)',177.15,'02-03-2015',66);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Woman in the Fifth, The (Femme du Vï¿½me, La)',177.15,'02-03-2015',66);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Parking (Ting che)',107.92,'21-04-1977',37);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Thunder Bay',163.62,'05-01-1964',12);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Liberty Heights',96.0,'14-04-2022',34);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Spirit of the Beehive, The (Espíritu de la colmena, El)',156.95,'23-07-2018',7);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Spirit of the Beehive, The (Espï¿½ritu de la colmena, El)',156.95,'23-07-2018',7);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Cranes Are Flying, The (Letyat zhuravli)',79.67,'27-04-1986',96);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('East Side Story',127.65,'30-12-2013',56);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Circle, The (Dayereh)',81.45,'11-12-2008',87);
@@ -1614,7 +1614,7 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Retur
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Journey to Saturn (Rejsen til Saturn)',149.93,'22-07-2015',65);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Red Riding: 1983',120.5,'25-12-2011',36);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Shiner',177.2,'18-10-1992',3);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Rabbit à la Berlin (Królik po berlinsku)',144.62,'16-10-2016',7);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Rabbit ï¿½ la Berlin (Krï¿½lik po berlinsku)',144.62,'16-10-2016',7);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Allegheny Uprising',148.61,'21-11-1961',59);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('From Beyond',154.36,'05-10-1986',51);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Uprising',161.29,'14-11-1991',27);
@@ -1622,7 +1622,7 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Parad
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Safety Last!',179.46,'14-10-1966',83);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Imaginary Crimes',111.59,'23-10-2022',47);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Dancing at Lughnasa',188.9,'19-04-1974',38);
-INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Days of Grace (Días de gracia)',114.42,'12-12-2009',19);
+INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Days of Grace (Dï¿½as de gracia)',114.42,'12-12-2009',19);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Murder by Decree',158.38,'17-06-1994',9);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Broadway',137.29,'16-07-2001',53);
 INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Son in Law',91.38,'18-09-2022',71);
@@ -1632,8 +1632,8 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Loft'
 
 
 CREATE TABLE public.actor_movie (
-	id_actor INTEGER REFERENCES public.actor(id_actor),
-	id_movie INTEGER REFERENCES public.movie(id_movie),
+	id_actor INTEGER REFERENCES public.actor(id_actor), ON DELETE CASCADE,
+	id_movie INTEGER REFERENCES public.movie(id_movie), ON DELETE CASCADE,
 	created TIMESTAMP DEFAULT LOCALTIMESTAMP,
 	updated TIMESTAMP DEFAULT LOCALTIMESTAMP
 );
