@@ -1632,8 +1632,8 @@ INSERT INTO public.movie(title,duration,release_year,id_director) VALUES ('Loft'
 
 
 CREATE TABLE public.actor_movie (
-	id_actor INTEGER REFERENCES public.actor(id_actor), ON DELETE CASCADE,
-	id_movie INTEGER REFERENCES public.movie(id_movie), ON DELETE CASCADE,
+	id_actor INTEGER REFERENCES public.actor(id_actor) ON DELETE CASCADE,
+	id_movie INTEGER REFERENCES public.movie(id_movie) ON DELETE CASCADE,
 	created TIMESTAMP DEFAULT LOCALTIMESTAMP,
 	updated TIMESTAMP DEFAULT LOCALTIMESTAMP
 );
